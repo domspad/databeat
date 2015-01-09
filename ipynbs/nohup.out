@@ -1,0 +1,22 @@
+2015-01-09 08:17:36.683 [NotebookApp] Using existing profile dir: u'/Users/dominicspadacene/.ipython/profile_default'
+2015-01-09 08:17:36.688 [NotebookApp] Using MathJax from CDN: http://cdn.mathjax.org/mathjax/latest/MathJax.js
+2015-01-09 08:17:36.695 [NotebookApp] The port 8888 is already in use, trying another random port.
+2015-01-09 08:17:36.695 [NotebookApp] The port 8889 is already in use, trying another random port.
+2015-01-09 08:17:36.696 [NotebookApp] The port 8890 is already in use, trying another random port.
+2015-01-09 08:17:36.696 [NotebookApp] The port 8891 is already in use, trying another random port.
+2015-01-09 08:17:36.696 [NotebookApp] The port 8892 is already in use, trying another random port.
+2015-01-09 08:17:36.696 [NotebookApp] The port 8889 is already in use, trying another random port.
+2015-01-09 08:17:36.696 [NotebookApp] Serving notebooks from local directory: /Users/dominicspadacene/Desktop/github_projects/databeat/ipynbs
+2015-01-09 08:17:36.696 [NotebookApp] The IPython Notebook is running at: http://127.0.0.1:8922/
+2015-01-09 08:17:36.696 [NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+2015-01-09 08:17:45.304 [NotebookApp] Connecting to: tcp://127.0.0.1:64680
+2015-01-09 08:17:45.315 [NotebookApp] Kernel started: edd5042d-c30a-446e-a9c7-342feb787f06
+2015-01-09 08:17:45.407 [NotebookApp] Connecting to: tcp://127.0.0.1:64679
+2015-01-09 08:17:45.408 [NotebookApp] Connecting to: tcp://127.0.0.1:64677
+2015-01-09 08:17:45.485 [NotebookApp] Connecting to: tcp://127.0.0.1:64678
+2015-01-09 08:28:26.061 [NotebookApp] Kernel interrupted: edd5042d-c30a-446e-a9c7-342feb787f06
+2015-01-09 08:28:35.206 [NotebookApp] Kernel restarted: edd5042d-c30a-446e-a9c7-342feb787f06
+2015-01-09 08:28:35.220 [NotebookApp] Connecting to: tcp://127.0.0.1:64679
+2015-01-09 08:28:35.220 [NotebookApp] Connecting to: tcp://127.0.0.1:64678
+2015-01-09 08:28:35.221 [NotebookApp] Connecting to: tcp://127.0.0.1:64677
+2015-01-09 08:31:07.120 [NotebookApp] Kernel interrupted: edd5042d-c30a-446e-a9c7-342feb787f06
